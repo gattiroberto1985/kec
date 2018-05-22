@@ -1,0 +1,30 @@
+{
+  "name": "kec",
+  "version": "1.0.0",
+  "description": "An electron client for google keep",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gattiroberto1985/kec.git"
+  },
+  "keywords": [
+    "keep",
+    "electron"
+  ],
+  "author": "gattiroberto1985",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gattiroberto1985/kec/issues"
+  },
+  "homepage": "https://github.com/gattiroberto1985/kec#readme",
+  "dependencies": {
+    "npm": "^6.0.1"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
+}
